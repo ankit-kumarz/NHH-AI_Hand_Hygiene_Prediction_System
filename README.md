@@ -1,0 +1,1 @@
+# NHH-AI_Hand_Hygiene_Prediction_System
