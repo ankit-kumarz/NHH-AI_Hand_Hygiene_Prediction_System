@@ -61,7 +61,7 @@ Hand_Hygiene_prediction_system/
 - ✅ Real-time hand detection using MediaPipe
 - ✅ WHO 20-second compliance monitoring
 - ✅ Event logging and statistics
-- ✅ Live video feed with overlay
+- ✅ Live video feed with overlay 
 - ✅ 30 FPS performance on CPU
 
 ### Phase 2: Backend API
