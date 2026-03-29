@@ -108,7 +108,7 @@ docker run --name hand-hygiene-db \
 python backend/app.py
 ```
 
-#### 2. Setup Frontend
+#### 2. Setup Frontend 
 
 ```bash
 cd frontend
