@@ -65,7 +65,7 @@ Hand_Hygiene_prediction_system/
 - ✅ 30 FPS performance on CPU
 
 ### Phase 2: Backend API
-- ✅ Flask REST API with 10+ endpoints
+- ✅ Flask REST API with 10+ endpoints 
 - ✅ PostgreSQL database with 3 tables
 - ✅ Event logging and retrieval
 - ✅ Statistics calculation
