@@ -6,7 +6,7 @@
 A full-stack system for monitoring and improving hand hygiene compliance in hospitals using computer vision, real-time monitoring, and analytics.
 
 ---
-
+ 
 ## 📦 Project Structure
 
 ```
