@@ -81,7 +81,7 @@ Hand_Hygiene_prediction_system/
 ---
 
 ## 🚀 Quick Start
-
+ 
 ### Prerequisites
 - Python 3.10+
 - Node.js 16+
