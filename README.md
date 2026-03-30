@@ -100,7 +100,7 @@ pip install -r requirements_phase2.txt
 # Setup PostgreSQL (using Docker)
 docker run --name hand-hygiene-db \
   -e POSTGRES_PASSWORD=password \
-  -e POSTGRES_DB=hand_hygiene \
+  -e POSTGRES_DB=hand_hygiene \ 
   -p 5432:5432 \
   -d postgres:15 
 
