@@ -128,7 +128,7 @@ python backend/detect_hygiene.py
 
 ---
 
-## 📊 API Endpoints
+## 📊 API Endpoints 
 
 ### Health & Status
 ```
