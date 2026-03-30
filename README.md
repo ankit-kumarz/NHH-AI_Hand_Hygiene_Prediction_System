@@ -102,7 +102,7 @@ docker run --name hand-hygiene-db \
   -e POSTGRES_PASSWORD=password \
   -e POSTGRES_DB=hand_hygiene \
   -p 5432:5432 \
-  -d postgres:15
+  -d postgres:15 
 
 # Run backend
 python backend/app.py
