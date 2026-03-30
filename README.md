@@ -149,7 +149,7 @@ GET /api/stats                     # Overall stats
 GET /api/stats/daily               # Daily trends
 GET /api/stats/user/<user_id>      # User statistics
 ```
-
+ 
 ### User Management
 ```
 POST /api/users                    # Create user
