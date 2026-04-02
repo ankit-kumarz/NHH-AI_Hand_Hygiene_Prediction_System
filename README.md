@@ -799,15 +799,6 @@ Contributions welcome! Areas for improvement:
 
 MIT License - See LICENSE file
 
----
-
-## 📞 Support
-
-For issues, questions, or suggestions:
-1. Check troubleshooting section
-2. Review code comments
-3. Check API documentation
-4. Test with sample data
 
 ---
 
