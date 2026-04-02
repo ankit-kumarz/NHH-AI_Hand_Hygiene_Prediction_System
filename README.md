@@ -292,7 +292,7 @@ Response: { success: true, prediction: { class: "hand_washing", confidence: 0.94
 
 ### Get Metrics
 ```http
-GET /api/ai/metrics
+GET /api/ai/metrics 
 Response: { 
   metrics: {
     total_predictions: 5000,
