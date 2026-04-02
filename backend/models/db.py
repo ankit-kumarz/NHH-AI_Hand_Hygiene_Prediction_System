@@ -26,7 +26,7 @@ class HygieneEvent(db.Model):
     compliance = db.Column(db.Boolean, default=False)  # True if >= 20 seconds
     location = db.Column(db.String(255), nullable=True)
     department = db.Column(db.String(255), nullable=True)
-    metadata = db.Column(JSON, nullable=True)  # Additional data
+    event_metadata = db.Column(JSON, nullable=True)  # Additional data
     created_at = db.Column(db.DateTime, default=datetime.utcnow, nullable=False)
     
     def to_dict(self):
@@ -41,7 +41,7 @@ class HygieneEvent(db.Model):
             'compliance': self.compliance,
             'location': self.location,
             'department': self.department,
-            'metadata': self.metadata,
+            'event_metadata': self.event_metadata,
             'created_at': self.created_at.isoformat() if self.created_at else None
         }
     

@@ -3,8 +3,7 @@ Real-time Events System using Flask-SocketIO
 Handles WebSocket connections and broadcasts alerts
 """
 
-from flask import emit
-from flask_socketio import SocketIO, join_room, leave_room
+from flask_socketio import SocketIO, emit, join_room, leave_room
 from datetime import datetime
 import json
 

@@ -1,0 +1,13 @@
+{
+  "model_name": "hand_hygiene_detector",
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "num_classes": 2,
+  "classes": [
+    "no_activity",
+    "hand_washing"
+  ]
+}
