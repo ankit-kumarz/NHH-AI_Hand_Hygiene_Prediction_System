@@ -3,7 +3,7 @@ Backend integration for AI Hand Hygiene Model
 Flask API endpoints for real-time model predictions
 """
 
-import cv2
+import cv2 
 import numpy as np
 import json
 from pathlib import Path
