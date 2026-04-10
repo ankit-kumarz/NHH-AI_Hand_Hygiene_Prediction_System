@@ -50,7 +50,7 @@ class ModelService:
         self.load_model()
         self._initialized = True
     
-    def load_model(self):
+    def load_model(self): 
         """Load trained model"""
         # Look in project root relative to this file
         root_dir = Path(__file__).parent.parent
