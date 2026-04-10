@@ -102,7 +102,7 @@ python ai/inference.py
 
 ### Monitoring & Analytics
 ✅ **Real-time Dashboard** - Live compliance metrics
-✅ **Employee Tracking** - Individual compliance rates
+✅ **Employee Tracking** - Individual compliance rates 
 ✅ **Department Stats** - Aggregate compliance by department
 ✅ **Trend Analysis** - 30-day compliance trends
 ✅ **Performance Reports** - Detailed accuracy metrics
