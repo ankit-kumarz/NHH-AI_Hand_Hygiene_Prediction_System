@@ -77,7 +77,7 @@ class ModelService:
             return True
         
         except Exception as e:
-            logger.error(f"Failed to load model: {e}")
+            logger.error(f"Failed to load model: {e}") 
             return False
     
     def predict(self, frame):
