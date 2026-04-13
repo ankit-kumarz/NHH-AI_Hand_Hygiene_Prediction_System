@@ -121,7 +121,7 @@ python ai/inference.py
 
 ## 📊 Model Performance
 
-| Metric | Performance |
+| Metric | Performance | 
 |--------|-------------|
 | **Accuracy** | 92-96% |
 | **Precision** | 90-95% |
