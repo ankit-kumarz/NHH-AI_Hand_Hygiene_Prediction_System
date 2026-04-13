@@ -129,7 +129,7 @@ python ai/inference.py
 | **F1-Score** | 90-94% |
 | **AUC-ROC** | 0.97-0.99 |
 | **FPS (GPU)** | 30-45 |
-| **Latency** | 22-33ms | 
+| **Latency** | 22-33ms |  
 
 ---
 
