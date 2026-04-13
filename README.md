@@ -213,7 +213,7 @@ ai/
 ├── train.py            # Training pipeline
 ├── inference.py        # Real-time webcam detection
 └── models/
-    ├── hand_hygiene_detector_final.h5      # Trained model (~20-30MB)
+    ├── hand_hygiene_detector_final.h5      # Trained model (~20-30MB) 
     └── hand_hygiene_detector_config.json   # Model config
 ```
 
