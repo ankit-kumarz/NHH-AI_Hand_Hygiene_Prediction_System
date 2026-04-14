@@ -26,7 +26,7 @@ Hand_Hygiene_prediction_system/
 │   │   ├── hand_detection.py     # MediaPipe hand detection
 │   │   ├── timer_logic.py        # WHO 20-second compliance timer
 │   │   ├── utils.py              # Display utilities
-│   │   └── integration.py        # Phase 1-2 integration
+│   │   └── integration.py        # Phase 1-2 integration 
 │   └── requirements_phase2.txt
 │
 ├── frontend/
