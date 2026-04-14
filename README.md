@@ -78,7 +78,7 @@ cd frontend && npm run dev
 
 # Terminal 3: Live Webcam Detection (Optional)
 python ai/inference.py
-```
+``` 
 
 ### 3. Access
 - **Dashboard**: http://localhost:5173
