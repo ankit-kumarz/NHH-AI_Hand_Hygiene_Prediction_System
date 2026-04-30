@@ -255,7 +255,7 @@ python ai/dataset.py
 # - Creates 100 samples total
 ```
 
-### Step 2: Train Model
+### Step 2: Train Model 
 ```bash
 python ai/train.py
 # Phase 1: Frozen backbone (5 epochs) - 2 min
