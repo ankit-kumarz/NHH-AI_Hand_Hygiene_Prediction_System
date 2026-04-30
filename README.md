@@ -9,7 +9,7 @@ A full-stack system for monitoring and improving hand hygiene compliance in hosp
 - **👥 Employee Tracking** - Compliance rates per staff member
 - **🚨 Smart Alerts** - Automatic notifications for non-compliance
 
----
+--- 
    
 ## 📦 Project Structure  
 
