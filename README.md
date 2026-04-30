@@ -106,7 +106,7 @@ python ai/inference.py
 ✅ **Department Stats** - Aggregate compliance by department
 ✅ **Trend Analysis** - 30-day compliance trends
 ✅ **Performance Reports** - Detailed accuracy metrics
-
+ 
 ### Access Control
 ✅ **ICU Gate Simulator** - Access denied/granted based on compliance
 ✅ **3-Factor Validation** - Recent wash, wash duration, compliance rate
