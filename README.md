@@ -3,7 +3,7 @@
 ## 🏥 Complete AI-Powered Healthcare Solution  
 
 A full-stack system for monitoring and improving hand hygiene compliance in hospitals using:
-- **🤖 Custom CNN Model** (EfficientNetB0) - 92-96% accuracy 
+- **🤖 Custom CNN Model** (EfficientNetB0) - 92-96% accuracy  
 - **📹 Real-time Webcam Detection** - 30-45 FPS on GPU 
 - **📊 Comprehensive Analytics** - Real-time metrics dashboard 
 - **👥 Employee Tracking** - Compliance rates per staff member
