@@ -12,7 +12,7 @@ from database import db
 from access_control import access_manager
 from alert_system import AlertSystem, AlertNotificationService
 from dotenv import load_dotenv
-import cv2
+import cv2 
 import numpy as np
 import base64
 from ai_model_service import get_model_service
