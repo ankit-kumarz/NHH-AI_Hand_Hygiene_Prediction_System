@@ -61,7 +61,7 @@ def create_app(config=None):
             'name': 'Hand Hygiene Compliance Monitoring System',
             'version': '3.0.0',
             'status': 'running',
-            'database': 'SQLite',
+            'database': 'SQLite', 
             'timestamp': datetime.utcnow().isoformat(),
             'features': [
                 'AI Hand Detection',
