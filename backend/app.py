@@ -147,7 +147,7 @@ def create_app(config=None):
                 'employee_id': emp_id
             }), 201
         except Exception as e:
-            logger.error(f"Error creating employee: {e}")
+            logger.error(f"Error creating employee: {e}") 
             return jsonify({'success': False, 'error': str(e)}), 500
     
     @app.route('/api/employees/<employee_id>', methods=['PUT'])
