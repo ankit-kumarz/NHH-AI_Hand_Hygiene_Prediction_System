@@ -228,7 +228,7 @@ def create_app(config=None):
                 'success': True,
                 'access': result,
                 'timestamp': datetime.utcnow().isoformat()
-            }), 200
+            }), 200 
         except Exception as e:
             logger.error(f"Error processing access request: {e}")
             return jsonify({'success': False, 'error': str(e)}), 500
