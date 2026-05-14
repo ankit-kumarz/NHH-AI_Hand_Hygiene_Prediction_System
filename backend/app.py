@@ -165,7 +165,7 @@ def create_app(config=None):
                 'message': 'Employee updated successfully'
             }), 200
         except Exception as e:
-            logger.error(f"Error updating employee {employee_id}: {e}")
+            logger.error(f"Error updating employee {employee_id}: {e}") 
             return jsonify({'success': False, 'error': str(e)}), 500
     
     @app.route('/api/employees/<employee_id>/history', methods=['GET'])
