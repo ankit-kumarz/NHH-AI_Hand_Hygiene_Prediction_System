@@ -54,7 +54,7 @@ def create_app(config=None):
         """Health check endpoint"""
         return jsonify({'status': 'healthy', 'timestamp': datetime.utcnow().isoformat()}), 200
     
-    @app.route('/', methods=['GET'])
+    @app.route('/', methods=['GET']) 
     def root():
         """API root endpoint"""
         return jsonify({
