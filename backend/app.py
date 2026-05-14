@@ -42,7 +42,7 @@ def create_app(config=None):
     else:
         app.config['JSON_SORT_KEYS'] = False
         app.config['SECRET_KEY'] = os.getenv('SECRET_KEY', 'dev-secret-key-change-in-production')
-        app.config['DATABASE_URL'] = os.getenv('DATABASE_URL', 'data/hand_hygiene.db')
+        app.config['DATABASE_URL'] = os.getenv('DATABASE_URL', 'data/hand_hygiene.db') 
     
     # CORS
     CORS(app, resources={r"/api/*": {"origins": "*"}})
