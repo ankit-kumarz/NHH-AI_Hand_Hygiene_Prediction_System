@@ -136,7 +136,7 @@ def create_app(config=None):
                 data['employee_id'],
                 data['name'],
                 data['role'],
-                data['department'],
+                data['department'], 
                 data.get('rfid_tag')
             )
             
