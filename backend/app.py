@@ -346,7 +346,7 @@ def create_app(config=None):
             data = request.json
             required = ['employee_id', 'alert_type', 'message']
             
-            if not all(k in data for k in required):
+            if not all(k in data for k in required): 
                 return jsonify({'success': False, 'error': 'Missing required fields'}), 400
             
             alert_id = db.create_alert(
