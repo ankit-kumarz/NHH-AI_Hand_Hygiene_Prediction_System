@@ -70,7 +70,7 @@ def create_app(config=None):
                 'Alert Management',
                 'Compliance Analytics',
                 'Real-time Dashboard'
-            ],
+            ], 
             'endpoints': {
                 'health': '/api/health',
                 'employees': 'GET /api/employees',
