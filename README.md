@@ -141,7 +141,7 @@ python ai/inference.py
 
 ---
 
-## 🏗️ System Architecture
+## 🏗️ System Architecture  
 
 ```
 ┌─────────────────────────────────────────────────────────┐
