@@ -11,7 +11,7 @@ A full-stack system for monitoring and improving hand hygiene compliance in hosp
 
 --- 
    
-## 📦 Project Structure  
+## 📦 Project Structure   
 
 ```
 Hand_Hygiene_prediction_system/ 
