@@ -68,7 +68,7 @@ python ai/dataset.py      # Collect data
 python ai/train.py        # Train model (10-15 min)
 ```
 
-### 2. Run the System
+### 2. Run the System 
 ```bash
 # Terminal 1: Backend
 python backend/app.py
