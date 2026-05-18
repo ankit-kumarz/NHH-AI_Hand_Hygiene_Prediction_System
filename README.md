@@ -83,7 +83,7 @@ python ai/inference.py
 ### 3. Access
 - **Dashboard**: http://localhost:5173
 - **Live Monitor**: http://localhost:5173/monitor (uses REAL AI model)
-- **AI Metrics**: http://localhost:5173/ml-metrics
+- **AI Metrics**: http://localhost:5173/ml-metrics 
 - **Employees**: http://localhost:5173/employees 
 - **ICU Gate**: http://localhost:5173/access
 - **Alerts**: http://localhost:5173/alerts
