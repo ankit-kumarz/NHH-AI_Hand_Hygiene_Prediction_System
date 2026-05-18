@@ -183,7 +183,7 @@ python ai/inference.py
 
 ### Backend
 - **Framework**: Flask 3.0.0
-- **Database**: SQLite
+- **Database**: SQLite 
 - **ML**: TensorFlow 2.14, Keras, OpenCV
 - **API**: REST with CORS support
 
