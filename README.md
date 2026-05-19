@@ -69,7 +69,7 @@ python ai/train.py        # Train model (10-15 min)
 ```
 
 ### 2. Run the System 
-```bash
+```bash 
 # Terminal 1: Backend
 python backend/app.py
  
