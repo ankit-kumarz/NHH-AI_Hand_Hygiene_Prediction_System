@@ -100,7 +100,7 @@ python ai/inference.py
 ✅ **Data Collection** - Interactive webcam-based training data collection   
 ✅ **Two-Phase Training** - Frozen backbone → Fine-tuning approach
 
-### Monitoring & Analytics 
+### Monitoring & Analytics  
 ✅ **Real-time Dashboard** - Live compliance metrics
 ✅ **Employee Tracking** - Individual compliance rates 
 ✅ **Department Stats** - Aggregate compliance by department
