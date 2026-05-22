@@ -94,7 +94,7 @@ python ai/inference.py
 
 ### AI/ML System (NEW)
 ✅ **Custom CNN Model** - EfficientNetB0 with fine-tuned transfer learning
-✅ **Real-time Inference** - 30-45 FPS on GPU, handles live webcam streams 
+✅ **Real-time Inference** - 30-45 FPS on GPU, handles live webcam streams   
 ✅ **92-96% Accuracy** - Trained on hand hygiene specific dataset
 ✅ **Live Metrics** - Track detection rate, confidence, performance
 ✅ **Data Collection** - Interactive webcam-based training data collection   
