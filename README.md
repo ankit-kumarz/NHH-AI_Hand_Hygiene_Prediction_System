@@ -142,7 +142,7 @@ python ai/inference.py
 ---
 
 ## 🏗️ System Architecture  
-
+ 
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                  Frontend (React + Vite)                │
