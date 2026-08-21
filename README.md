@@ -195,7 +195,7 @@ python ai/inference.py
 - **Charts**: Chart.js
 
 ### AI/ML
-- **Base Model**: EfficientNetB0 (ImageNet pre-trained)
+- **Base Model**: EfficientNetB0 (ImageNet pre-trained) 
 - **Optimizer**: Adam with learning rate scheduling
 - **Loss**: Categorical Crossentropy
 - **Data Augmentation**: Random flip, brightness, contrast
