@@ -20,7 +20,7 @@ Hand_Hygiene_prediction_system/
 │   ├── detect_hygiene.py         # Phase 1: AI detection script 
 │   ├── routes/
 │   │   └── hygiene.py            # REST API endpoints
-│   ├── models/
+│   ├── models/ 
 │   │   └── db.py                 # PostgreSQL database models
 │   ├── ai/
 │   │   ├── hand_detection.py     # MediaPipe hand detection
