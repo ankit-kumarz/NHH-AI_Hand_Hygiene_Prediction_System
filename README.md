@@ -284,7 +284,7 @@ Response: { status: "ready", model_loaded: true, config: {...} }
 
 ### Make Predictions
 ```http
-POST /api/ai/predict
+POST /api/ai/predict 
 Content-Type: multipart/form-data
 Body: image=<image_file>
 Response: { success: true, prediction: { class: "hand_washing", confidence: 0.94 } }
