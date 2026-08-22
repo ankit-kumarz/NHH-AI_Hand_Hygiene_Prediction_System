@@ -98,7 +98,7 @@ python ai/inference.py
 ✅ **92-96% Accuracy** - Trained on hand hygiene specific dataset
 ✅ **Live Metrics** - Track detection rate, confidence, performance
 ✅ **Data Collection** - Interactive webcam-based training data collection   
-✅ **Two-Phase Training** - Frozen backbone → Fine-tuning approach
+✅ **Two-Phase Training** - Frozen backbone → Fine-tuning approach 
 
 ### Monitoring & Analytics   
 ✅ **Real-time Dashboard** - Live compliance metrics
