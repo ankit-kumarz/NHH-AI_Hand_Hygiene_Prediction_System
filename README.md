@@ -7,7 +7,7 @@ A full-stack system for monitoring and improving hand hygiene compliance in hosp
 - **📹 Real-time Webcam Detection** - 30-45 FPS on GPU    
 - **📊 Comprehensive Analytics** - Real-time metrics dashboard 
 - **👥 Employee Tracking** - Compliance rates per staff member   
-- **🚨 Smart Alerts** - Automatic notifications for non-compliance    
+- **🚨 Smart Alerts** - Automatic notifications for non-compliance     
 
 ---  
    
