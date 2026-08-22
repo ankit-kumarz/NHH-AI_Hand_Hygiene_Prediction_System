@@ -138,7 +138,7 @@ python ai/inference.py
 - **[AI Setup Guide](AI_SETUP_GUIDE.md)** - Complete ML training guide
 - **[Complete System Docs](AI_SYSTEM_COMPLETE.md)** - Full technical details
 - **[Database Setup](DB_SETUP.txt)** - SQLite configuration
-
+ 
 ---
 
 ## 🏗️ System Architecture  
