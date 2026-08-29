@@ -16,7 +16,7 @@ A full-stack system for monitoring and improving hand hygiene compliance in hosp
 ```
 Hand_Hygiene_prediction_system/ 
 ├── backend/
-│   ├── app.py                    # Flask main application
+│   ├── app.py                    # Flask main application 
 │   ├── detect_hygiene.py         # Phase 1: AI detection script 
 │   ├── routes/
 │   │   └── hygiene.py            # REST API endpoints
