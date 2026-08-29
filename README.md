@@ -197,7 +197,7 @@ python ai/inference.py
 ### AI/ML
 - **Base Model**: EfficientNetB0 (ImageNet pre-trained) 
 - **Optimizer**: Adam with learning rate scheduling
-- **Loss**: Categorical Crossentropy
+- **Loss**: Categorical Crossentropy 
 - **Data Augmentation**: Random flip, brightness, contrast
 - **Framework**: TensorFlow/Keras
 
