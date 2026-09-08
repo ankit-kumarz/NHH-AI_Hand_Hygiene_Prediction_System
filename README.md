@@ -116,7 +116,7 @@ python ai/inference.py
 ✅ **Real-time Alerts** - Non-compliance triggers notifications
 ✅ **Smart Categories** - Reminder, training, supervisor notifications  
 ✅ **Alert Center** - Centralized alert management 
-
+ 
 ---
 
 ## 📊 Model Performance
