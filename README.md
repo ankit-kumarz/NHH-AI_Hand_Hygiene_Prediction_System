@@ -159,7 +159,7 @@ python ai/inference.py
 │  └────────────────────────────────────────────────────┘ │
 │  ┌────────────────────────────────────────────────────┐ │
 │  │  Employee & Analytics Service                      │ │
-│  │  - Compliance tracking                             │ │
+│  │  - Compliance tracking                             │ │ 
 │  │  - Access control                                  │ │
 │  │  - Alert generation                               │ │
 │  └────────────────────────────────────────────────────┘ │
