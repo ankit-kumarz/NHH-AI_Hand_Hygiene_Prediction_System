@@ -112,7 +112,7 @@ python ai/inference.py
 ✅ **3-Factor Validation** - Recent wash, wash duration, compliance rate
 ✅ **Audit Logging** - Complete access history
 
-### Alerts & Notifications
+### Alerts & Notifications 
 ✅ **Real-time Alerts** - Non-compliance triggers notifications
 ✅ **Smart Categories** - Reminder, training, supervisor notifications  
 ✅ **Alert Center** - Centralized alert management 
