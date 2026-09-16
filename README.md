@@ -108,7 +108,7 @@ python ai/inference.py
 ✅ **Performance Reports** - Detailed accuracy metrics
  
 ### Access Control
-✅ **ICU Gate Simulator** - Access denied/granted based on compliance
+✅ **ICU Gate Simulator** - Access denied/granted based on compliance 
 ✅ **3-Factor Validation** - Recent wash, wash duration, compliance rate
 ✅ **Audit Logging** - Complete access history
 
