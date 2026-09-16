@@ -71,7 +71,7 @@ python ai/train.py        # Train model (10-15 min)
 ### 2. Run the System 
 ```bash 
 # Terminal 1: Backend
-python backend/app.py
+python backend/app.py 
     
 # Terminal 2: Frontend
 cd frontend && npm run dev
